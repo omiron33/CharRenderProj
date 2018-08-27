@@ -1,0 +1,14 @@
+.validLength {
+    background-color: greenyellow;
+    color: black;
+    width: 400px;
+    margin: auto;
+}
+
+.invalidLength {
+    background-color: red;
+    color: white;
+    width: 400px;
+    margin: auto;
+}
+
